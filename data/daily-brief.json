@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T11:45:11.911682Z",
+  "generated_at": "2026-09-23T15:04:23.454925Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -18,7 +18,7 @@
           "title_en": "Introducing GPT-6 Sol and Luna",
           "title_original": "Introducing GPT-6 Sol and Luna",
           "summary": null,
-          "recommend_reason_zh": "GPT-6 Sol与GPT-6 Luna发布，把前沿智能带入日常场景，并针对能力与成本做不同平衡；API价格较GPT-5.6降低50%，Sol在AutomationBench上得分33.2%，超过Claude Opus 5，每任务成本仅0.27美元。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -68,7 +68,7 @@
           "title_en": "Introducing GPT-6 Sol and Luna",
           "title_original": "Introducing GPT-6 Sol and Luna",
           "summary": null,
-          "recommend_reason_zh": "GPT-6 Sol与GPT-6 Luna发布，把前沿智能带入日常场景，并针对能力与成本做不同平衡；API价格较GPT-5.6降低50%，Sol在AutomationBench上得分33.2%，超过Claude Opus 5，每任务成本仅0.27美元。",
+          "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
@@ -106,15 +106,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8693,
-      "importance": 0.8693,
-      "importance_score": 0.8693,
+      "score": 0.8628,
+      "importance": 0.8628,
+      "importance_score": 0.8628,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7739,
+        "recency": 0.7376,
         "story_heat": 0.5
       },
       "category": "official",
@@ -133,18 +133,16 @@
         "title_en": "Introducing GPT-6 Sol and Luna",
         "title_original": "Introducing GPT-6 Sol and Luna",
         "summary": null,
-        "recommend_reason_zh": "GPT-6 Sol与GPT-6 Luna发布，把前沿智能带入日常场景，并针对能力与成本做不同平衡；API价格较GPT-5.6降低50%，Sol在AutomationBench上得分33.2%，超过Claude Opus 5，每任务成本仅0.27美元。",
+        "recommend_reason_zh": null,
         "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "新模型当天可调，API 账单直接砍半，批量推理的今天就该切过去比一比。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -162,7 +160,7 @@
           "title_en": "Introducing Claude Opus 5.5",
           "title_original": "Introducing Claude Opus 5.5",
           "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
-          "recommend_reason_zh": "这篇发布文值得读：Claude Opus 5.5 在典型工作负载下运行成本比 Opus 5 低 40%，输入与输出每百万 token 为 4 与 20 美元，输出速度提升超 30%，还有测试者一天内完成 68 万行代码迁移。",
+          "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/claude-opus-5-5",
           "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
@@ -171,8 +169,8 @@
         },
         {
           "id": "9a2b419139d60d2fee2d5f5e93ec055dd8a3fd45",
-          "title": "Claude Opus 5.5 发布，智能体编程领先且运行成本较 Opus 5 降 40%",
-          "title_zh": "Claude Opus 5.5 发布，智能体编程领先且运行成本较 Opus 5 降 40%",
+          "title": "克劳德 作品5.5",
+          "title_zh": "克劳德 作品5.5",
           "title_en": null,
           "title_original": "克劳德 作品5.5",
           "summary": null,
@@ -212,7 +210,7 @@
           "title_en": "Introducing Claude Opus 5.5",
           "title_original": "Introducing Claude Opus 5.5",
           "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
-          "recommend_reason_zh": "这篇发布文值得读：Claude Opus 5.5 在典型工作负载下运行成本比 Opus 5 低 40%，输入与输出每百万 token 为 4 与 20 美元，输出速度提升超 30%，还有测试者一天内完成 68 万行代码迁移。",
+          "recommend_reason_zh": null,
           "url": "https://www.anthropic.com/claude-opus-5-5",
           "source": "Anthropic：Newsroom（网页）",
           "source_name": "AI HOT",
@@ -221,8 +219,8 @@
         },
         {
           "id": "9a2b419139d60d2fee2d5f5e93ec055dd8a3fd45",
-          "title": "Claude Opus 5.5 发布，智能体编程领先且运行成本较 Opus 5 降 40%",
-          "title_zh": "Claude Opus 5.5 发布，智能体编程领先且运行成本较 Opus 5 降 40%",
+          "title": "克劳德 作品5.5",
+          "title_zh": "克劳德 作品5.5",
           "title_en": null,
           "title_original": "克劳德 作品5.5",
           "summary": null,
@@ -250,15 +248,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8651,
-      "importance": 0.8651,
-      "importance_score": 0.8651,
+      "score": 0.8587,
+      "importance": 0.8587,
+      "importance_score": 0.8587,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7616,
+        "recency": 0.7259,
         "story_heat": 0.5
       },
       "category": "official",
@@ -276,18 +274,99 @@
         "title_en": "Introducing Claude Opus 5.5",
         "title_original": "Introducing Claude Opus 5.5",
         "summary": "Anthropic 发布 Claude Opus 5.5，为 Claude 5.5 系列首个模型，在多数工作上达到 Fable 5.1 水平，典型负载成本较 Opus 5 低 40%。",
-        "recommend_reason_zh": "这篇发布文值得读：Claude Opus 5.5 在典型工作负载下运行成本比 Opus 5 低 40%，输入与输出每百万 token 为 4 与 20 美元，输出速度提升超 30%，还有测试者一天内完成 68 万行代码迁移。",
+        "recommend_reason_zh": null,
         "url": "https://www.anthropic.com/claude-opus-5-5",
         "source": "Anthropic：Newsroom（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 91,
-      "persona_review": "同档能力降价四成，账单直接省，今天就能切 API 跑一遍对比。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
+      }
+    },
+    {
+      "story_id": "story_e8d7d86b4448",
+      "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": null,
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+          "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_zh": null,
+          "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:17:01Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8554,
+      "importance": 0.8554,
+      "importance_score": 0.8554,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9745,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:17:01Z",
+      "latest_at": "2026-09-23T13:17:01Z",
+      "primary_item": {
+        "id": "23cce1b2008384ca31fa4e48dfdf1e5411098536",
+        "title": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_zh": null,
+        "title_en": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "title_original": "**Know Who Spoke When: Build Real-Time, Multi-Speaker AI with NVIDIA Nemotron 3 Diarization**",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-diarization",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -422,15 +501,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.846,
-      "importance": 0.846,
-      "importance_score": 0.846,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7858,
+        "recency": 0.749,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -454,12 +533,10 @@
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 38,
-      "persona_review": "跟你的代码没直接关系，但做高风险自动化决策的，把人类复核环节写死别省。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -477,7 +554,7 @@
           "title_en": "Codex CLI 0.156.1",
           "title_original": "Codex CLI 0.156.1",
           "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.156.1 上线 GPT-6 Sol 与 Luna，token 价格低于前代 GPT-5.6，Sol 适合复杂编码，Luna 主打高频任务。",
+          "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
@@ -497,7 +574,7 @@
           "title_en": "Codex CLI 0.156.1",
           "title_original": "Codex CLI 0.156.1",
           "summary": null,
-          "recommend_reason_zh": "Codex CLI 0.156.1 上线 GPT-6 Sol 与 Luna，token 价格低于前代 GPT-5.6，Sol 适合复杂编码，Luna 主打高频任务。",
+          "recommend_reason_zh": null,
           "url": "https://developers.openai.com/codex/changelog",
           "source": "OpenAI Codex Changelog",
           "source_name": "Official AI Updates",
@@ -507,15 +584,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8379,
-      "importance": 0.8379,
-      "importance_score": 0.8379,
+      "score": 0.8308,
+      "importance": 0.8308,
+      "importance_score": 0.8308,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8439,
+        "recency": 0.8044,
         "story_heat": 0.0
       },
       "category": "official",
@@ -533,18 +610,99 @@
         "title_en": "Codex CLI 0.156.1",
         "title_original": "Codex CLI 0.156.1",
         "summary": null,
-        "recommend_reason_zh": "Codex CLI 0.156.1 上线 GPT-6 Sol 与 Luna，token 价格低于前代 GPT-5.6，Sol 适合复杂编码，Luna 主打高频任务。",
+        "recommend_reason_zh": null,
         "url": "https://developers.openai.com/codex/changelog",
         "source": "OpenAI Codex Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "小版本补丁，日常在用就顺手 codex upgrade；没细节，不用专门研究。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
+      }
+    },
+    {
+      "story_id": "story_bcc37401aaaf",
+      "title": "Two years of OpenAI Academy",
+      "url": "https://openai.com/index/two-years-of-openai-academy",
+      "primary_url": "https://openai.com/index/two-years-of-openai-academy",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+          "title": "Two years of OpenAI Academy",
+          "title_zh": null,
+          "title_en": "Two years of OpenAI Academy",
+          "title_original": "Two years of OpenAI Academy",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/two-years-of-openai-academy",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T16:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T15:04:23.454925Z",
+      "latest_at": "2026-09-23T15:04:23.454925Z",
+      "primary_item": {
+        "id": "2ceac4a6f0349b18c44d863adb2b63a09f9e9cbb",
+        "title": "Two years of OpenAI Academy",
+        "title_zh": null,
+        "title_en": "Two years of OpenAI Academy",
+        "title_original": "Two years of OpenAI Academy",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/two-years-of-openai-academy",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -562,7 +720,7 @@
           "title_en": "OpenTelemetry in the GitHub Copilot app",
           "title_original": "OpenTelemetry in the GitHub Copilot app",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 现支持企业托管设置 OpenTelemetry，导出 agent 数据到监控工具，默认排除 prompt/response 内容。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -582,7 +740,7 @@
           "title_en": "OpenTelemetry in the GitHub Copilot app",
           "title_original": "OpenTelemetry in the GitHub Copilot app",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot 现支持企业托管设置 OpenTelemetry，导出 agent 数据到监控工具，默认排除 prompt/response 内容。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -592,15 +750,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8289,
-      "importance": 0.8289,
-      "importance_score": 0.8289,
+      "score": 0.8216,
+      "importance": 0.8216,
+      "importance_score": 0.8216,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8717,
+        "recency": 0.8309,
         "story_heat": 0.0
       },
       "category": "official",
@@ -618,246 +776,16 @@
         "title_en": "OpenTelemetry in the GitHub Copilot app",
         "title_original": "OpenTelemetry in the GitHub Copilot app",
         "summary": null,
-        "recommend_reason_zh": "GitHub Copilot 现支持企业托管设置 OpenTelemetry，导出 agent 数据到监控工具，默认排除 prompt/response 内容。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-09-22-opentelemetry-in-the-github-copilot-app",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "企业用 Copilot 的可直接接 OTel 埋点看用量和延迟，个人开发者可跳过。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
-      }
-    },
-    {
-      "story_id": "story_a809a02e7e68",
-      "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-      "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "primary_url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "title_en": "Better prompt caching for GPT-6",
-          "title_original": "Better prompt caching for GPT-6",
-          "summary": null,
-          "recommend_reason_zh": "GPT-6 将共享前缀缓存折扣窗口设为 30 分钟，缓存输入 token 最高省 90%，并新增诊断工具和显式断点，帮助开发者提升命中率、降低延迟与成本。",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-          "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-          "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-          "title_en": "Better prompt caching for GPT-6",
-          "title_original": "Better prompt caching for GPT-6",
-          "summary": null,
-          "recommend_reason_zh": "GPT-6 将共享前缀缓存折扣窗口设为 30 分钟，缓存输入 token 最高省 90%，并新增诊断工具和显式断点，帮助开发者提升命中率、降低延迟与成本。",
-          "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-22T21:00:00Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.8081,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T21:00:00Z",
-      "latest_at": "2026-09-22T21:00:00Z",
-      "primary_item": {
-        "id": "9c4b7dba4540465b2660049cbcad88b45ffefc48",
-        "title": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具 / Better prompt caching for GPT-6",
-        "title_zh": "OpenAI 为 GPT-6 推出改进的提示词缓存系统与诊断工具",
-        "title_en": "Better prompt caching for GPT-6",
-        "title_original": "Better prompt caching for GPT-6",
-        "summary": null,
-        "recommend_reason_zh": "GPT-6 将共享前缀缓存折扣窗口设为 30 分钟，缓存输入 token 最高省 90%，并新增诊断工具和显式断点，帮助开发者提升命中率、降低延迟与成本。",
-        "url": "https://openai.com/index/better-prompt-caching-for-gpt-6",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 86,
-      "persona_review": "提示词缓存命中直接砍成本和延迟，跑重复调用的项目今天就能开；诊断工具顺手解决排查。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
-      }
-    },
-    {
-      "story_id": "story_00b9cbed60be",
-      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": null,
-          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-          "recommend_reason_zh": "Meta Muse被曝0-day漏洞：任何本地应用或终端命令都能篡改转写端点偷走token，直接完全控制账户；Amazon周日已开始封禁Muse。",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:29:49.288000Z"
-        },
-        {
-          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道披露macOS安全专家Patrick Wardle发现Meta新AI助手Muse存在0-day，本地应用或终端命令可获取认证token、篡改转录endpoint并完全控制账户，而Mark Zuckerberg曾宣称其从底层为隐私与安全构建，Amazon周日也开始屏蔽Muse。",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "ce25fe2048a7a1532a8143e4e0fba3895e4c7946",
-          "title": "Muse，Meta 那个权限高得离谱的 AI assistant，出了一个严重的 0-day / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Muse，Meta 那个权限高得离谱的 AI assistant，出了一个严重的 0-day",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": "Meta 的 AI 助手 Muse 被曝存在一个严重的 0-day 漏洞，文章围绕这款被形容为「特权极高」的助手展开，说明该漏洞的来龙去脉及其对用户与平台可能造成的实际风险。",
-          "url": "https://news.ycombinator.com/item?id=49802030",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T14:35:15Z"
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News",
-        "Hacker News 热门（buzzing.cc 中文翻译）",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": null,
-          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-          "recommend_reason_zh": "Meta Muse被曝0-day漏洞：任何本地应用或终端命令都能篡改转写端点偷走token，直接完全控制账户；Amazon周日已开始封禁Muse。",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T19:29:49.288000Z"
-        },
-        {
-          "id": "1bf62a29d3b668ea594efb9f6671eefbd082761a",
-          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": "这篇报道披露macOS安全专家Patrick Wardle发现Meta新AI助手Muse存在0-day，本地应用或终端命令可获取认证token、篡改转录endpoint并完全控制账户，而Mark Zuckerberg曾宣称其从底层为隐私与安全构建，Amazon周日也开始屏蔽Muse。",
-          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-          "source": "Hacker News",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-09-22T14:35:15Z"
-        },
-        {
-          "id": "ce25fe2048a7a1532a8143e4e0fba3895e4c7946",
-          "title": "Muse，Meta 那个权限高得离谱的 AI assistant，出了一个严重的 0-day / Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_zh": "Muse，Meta 那个权限高得离谱的 AI assistant，出了一个严重的 0-day",
-          "title_en": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "title_original": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-          "summary": null,
-          "recommend_reason_zh": "Meta 的 AI 助手 Muse 被曝存在一个严重的 0-day 漏洞，文章围绕这款被形容为「特权极高」的助手展开，说明该漏洞的来龙去脉及其对用户与平台可能造成的实际风险。",
-          "url": "https://news.ycombinator.com/item?id=49802030",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-09-22T14:35:15Z"
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.8009,
-      "importance": 0.8009,
-      "importance_score": 0.8009,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7908,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-22T14:35:15Z",
-      "latest_at": "2026-09-22T19:29:49.288000Z",
-      "primary_item": {
-        "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
-        "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-        "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-        "title_en": null,
-        "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
-        "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
-        "recommend_reason_zh": "Meta Muse被曝0-day漏洞：任何本地应用或终端命令都能篡改转写端点偷走token，直接完全控制账户；Amazon周日已开始封禁Muse。",
-        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "用了 Muse 的赶紧停用查权限，0-day 已被实际封禁，别等补丁。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -875,7 +803,7 @@
           "title_en": "New features and improvements in Copilot for JetBrains",
           "title_original": "New features and improvements in Copilot for JetBrains",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot for JetBrains 1.18.0 为 agent 会话引入 assisted approvals 公开预览，低风险工具调用自动批准，高风险仍需确认；支持组织共享技能与自定义指令，并可重编辑旧消息回退对话和文件改动，Codex agent 也支持 plan mode。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -895,7 +823,7 @@
           "title_en": "New features and improvements in Copilot for JetBrains",
           "title_original": "New features and improvements in Copilot for JetBrains",
           "summary": null,
-          "recommend_reason_zh": "GitHub Copilot for JetBrains 1.18.0 为 agent 会话引入 assisted approvals 公开预览，低风险工具调用自动批准，高风险仍需确认；支持组织共享技能与自定义指令，并可重编辑旧消息回退对话和文件改动，Codex agent 也支持 plan mode。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -905,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8252,
-      "importance": 0.8252,
-      "importance_score": 0.8252,
+      "score": 0.818,
+      "importance": 0.818,
+      "importance_score": 0.818,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8509,
+        "recency": 0.8111,
         "story_heat": 0.0
       },
       "category": "official",
@@ -931,18 +859,99 @@
         "title_en": "New features and improvements in Copilot for JetBrains",
         "title_original": "New features and improvements in Copilot for JetBrains",
         "summary": null,
-        "recommend_reason_zh": "GitHub Copilot for JetBrains 1.18.0 为 agent 会话引入 assisted approvals 公开预览，低风险工具调用自动批准，高风险仍需确认；支持组织共享技能与自定义指令，并可重编辑旧消息回退对话和文件改动，Codex agent 也支持 plan mode。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-09-22-new-features-and-improvements-in-copilot-for-jetbrains",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "用 JetBrains 的更新插件就能拿到，非该 IDE 用户可略过。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
+      }
+    },
+    {
+      "story_id": "story_ee51f7ca8c9e",
+      "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+      "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "primary_url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+          "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+          "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-09-23T13:00:00Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8467,
+      "importance": 0.8467,
+      "importance_score": 0.8467,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9705,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-09-23T13:00:00Z",
+      "latest_at": "2026-09-23T13:00:00Z",
+      "primary_item": {
+        "id": "f3c68e810eb47bffbff9270c36c9e9b851f2b3d7",
+        "title": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划 / OpenAI extends cyber access to Ukraine for civilian defense",
+        "title_zh": "OpenAI 向乌克兰政府开放 Daybreak 网络防御计划",
+        "title_en": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "title_original": "OpenAI extends cyber access to Ukraine for civilian defense",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-extends-cyber-access-to-ukraine-for-civilian-defense",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -960,7 +969,7 @@
           "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
           "title_original": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
           "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-          "recommend_reason_zh": "Anthropic发布Claude Opus 5.5，一小时后OpenAI推出GPT-6 Sol与GPT-6 Luna；GPT-6 Luna定价$0.10/$0.50，仅为GPT-5.6 Luna一半，Opus 5.5输入输出价降20%、缓存读取降60%，文章梳理这场价格战并对比各模型定价位置。",
+          "recommend_reason_zh": null,
           "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
           "source": "Simon Willison 博客",
           "source_name": "AI HOT",
@@ -974,7 +983,7 @@
           "title_en": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
           "title_original": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
           "summary": null,
-          "recommend_reason_zh": "Anthropic与OpenAI定价战值得读：Claude Opus 5.5缓存读取降价60%，GPT-6 Luna仅$0.10/$0.50，GPT-6 Sol减半。",
+          "recommend_reason_zh": null,
           "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
           "source": "Simon Willison",
           "source_name": "OPML RSS",
@@ -995,7 +1004,7 @@
           "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
           "title_original": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
           "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-          "recommend_reason_zh": "Anthropic发布Claude Opus 5.5，一小时后OpenAI推出GPT-6 Sol与GPT-6 Luna；GPT-6 Luna定价$0.10/$0.50，仅为GPT-5.6 Luna一半，Opus 5.5输入输出价降20%、缓存读取降60%，文章梳理这场价格战并对比各模型定价位置。",
+          "recommend_reason_zh": null,
           "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
           "source": "Simon Willison 博客",
           "source_name": "AI HOT",
@@ -1009,7 +1018,7 @@
           "title_en": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
           "title_original": "Claude Opus 5.5, GPT-6 Sol, GPT-6 Luna, and a new price war",
           "summary": null,
-          "recommend_reason_zh": "Anthropic与OpenAI定价战值得读：Claude Opus 5.5缓存读取降价60%，GPT-6 Luna仅$0.10/$0.50，GPT-6 Sol减半。",
+          "recommend_reason_zh": null,
           "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
           "source": "Simon Willison",
           "source_name": "OPML RSS",
@@ -1019,15 +1028,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.791,
-      "importance": 0.791,
-      "importance_score": 0.791,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8412,
+        "recency": 0.8018,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1045,18 +1054,16 @@
         "title_en": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
         "title_original": "Claude Opus 5.5， GPT-6 Sol， GPT-6 Luna， and a new price war",
         "summary": "Anthropic 发布 Claude Opus 5.5，OpenAI 随后发布 GPT-6 Sol 和 GPT-6 Luna。GPT-6 两款价格为其 GPT-5.6 对应型号的一半，GPT-6 Luna 低至 $0.10/M 输入、$0.50/M 输出；Opus 5.5 降价 20% 至 $4/$20，缓存读取降 60%。",
-        "recommend_reason_zh": "Anthropic发布Claude Opus 5.5，一小时后OpenAI推出GPT-6 Sol与GPT-6 Luna；GPT-6 Luna定价$0.10/$0.50，仅为GPT-5.6 Luna一半，Opus 5.5输入输出价降20%、缓存读取降60%，文章梳理这场价格战并对比各模型定价位置。",
+        "recommend_reason_zh": null,
         "url": "https://simonwillison.net/2026/Sep/22/opus-and-sol-and-luna",
         "source": "Simon Willison 博客",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "新模型已上线还打价格战，先比价再换主力模型，长上下文任务成本能砍一截。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -1074,7 +1081,7 @@
           "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
           "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
           "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
-          "recommend_reason_zh": "Anthropic 的 Claude Opus 5.5 在 Artificial Analysis Intelligence Index 上以 58 分登顶，价格降至 $4/$20 每 1M tokens，较 Opus 5 下降 20%，缓存读取从 $0.50 降到 $0.20，并在六项评估中领先，Terminal-Bench 4.0 以 59.6% 追平 GPT-6 Astra。",
+          "recommend_reason_zh": null,
           "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
           "source": "Artificial Analysis 完整文章（网页）",
           "source_name": "AI HOT",
@@ -1088,7 +1095,7 @@
           "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
           "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
           "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
-          "recommend_reason_zh": "这篇内容值得一读：Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，价格下调20%并提高缓存命中折扣，同时在 Terminal-Bench 4.0 和 AutomationBench-AA 上让 Anthropic 追平 GPT-6 Astra，文章还提到 Anthropic 正在扩大其领先。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
@@ -1109,7 +1116,7 @@
           "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
           "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
           "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
-          "recommend_reason_zh": "Anthropic 的 Claude Opus 5.5 在 Artificial Analysis Intelligence Index 上以 58 分登顶，价格降至 $4/$20 每 1M tokens，较 Opus 5 下降 20%，缓存读取从 $0.50 降到 $0.20，并在六项评估中领先，Terminal-Bench 4.0 以 59.6% 追平 GPT-6 Astra。",
+          "recommend_reason_zh": null,
           "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
           "source": "Artificial Analysis 完整文章（网页）",
           "source_name": "AI HOT",
@@ -1123,7 +1130,7 @@
           "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
           "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index， along with a 20% p…",
           "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其实测最高分。",
-          "recommend_reason_zh": "这篇内容值得一读：Claude Opus 5.5 登顶 Artificial Analysis Intelligence Index，价格下调20%并提高缓存命中折扣，同时在 Terminal-Bench 4.0 和 AutomationBench-AA 上让 Anthropic 追平 GPT-6 Astra，文章还提到 Anthropic 正在扩大其领先。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2102438210798514391",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
@@ -1133,15 +1140,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7903,
-      "importance": 0.7903,
-      "importance_score": 0.7903,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7704,
+        "recency": 0.7344,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1159,18 +1166,16 @@
         "title_en": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
         "title_original": "Claude Opus 5.5 takes the top spot on the Artificial Analysis Intelligence Index",
         "summary": "Artificial Analysis 评测显示 Claude Opus 5.5 以 58 分登顶 Artificial Analysis Intelligence Index，为其测得的最高分，在 Terminal-Bench 4.0 上与 GPT-6 Astra 持平（59.6%）。",
-        "recommend_reason_zh": "Anthropic 的 Claude Opus 5.5 在 Artificial Analysis Intelligence Index 上以 58 分登顶，价格降至 $4/$20 每 1M tokens，较 Opus 5 下降 20%，缓存读取从 $0.50 降到 $0.20，并在六项评估中领先，Terminal-Bench 4.0 以 59.6% 追平 GPT-6 Astra。",
+        "recommend_reason_zh": null,
         "url": "https://artificialanalysis.ai/articles/claude-opus-5-5",
         "source": "Artificial Analysis 完整文章（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "榜一换人，选型清单加一项；先看 API 价格和延迟再决定换不换。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -1188,7 +1193,7 @@
           "title_en": null,
           "title_original": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
           "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
-          "recommend_reason_zh": "Claude Code v2.1.280 新增 Claude Opus 5.5 为默认 Opus 模型，支持 1M 上下文，定价 $4/$20 per Mtok。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
           "source": "Claude Code：GitHub Releases（RSS）",
           "source_name": "AI HOT",
@@ -1202,7 +1207,7 @@
           "title_en": null,
           "title_original": "v2.1.280",
           "summary": null,
-          "recommend_reason_zh": "Claude Code v2.1.280 将 Claude Opus 5.5 设为默认 Opus 模型，1M 上下文，定价 $4/$20 每 Mtok。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
           "source": "Claude Code Releases",
           "source_name": "Curated Media",
@@ -1223,7 +1228,7 @@
           "title_en": null,
           "title_original": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
           "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
-          "recommend_reason_zh": "Claude Code v2.1.280 新增 Claude Opus 5.5 为默认 Opus 模型，支持 1M 上下文，定价 $4/$20 per Mtok。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
           "source": "Claude Code：GitHub Releases（RSS）",
           "source_name": "AI HOT",
@@ -1237,7 +1242,7 @@
           "title_en": null,
           "title_original": "v2.1.280",
           "summary": null,
-          "recommend_reason_zh": "Claude Code v2.1.280 将 Claude Opus 5.5 设为默认 Opus 模型，1M 上下文，定价 $4/$20 每 Mtok。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
           "source": "Claude Code Releases",
           "source_name": "Curated Media",
@@ -1247,15 +1252,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7856,
-      "importance": 0.7856,
-      "importance_score": 0.7856,
+      "score": 0.7792,
+      "importance": 0.7792,
+      "importance_score": 0.7792,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7588,
+        "recency": 0.7233,
         "story_heat": 0.25
       },
       "category": "official",
@@ -1273,18 +1278,16 @@
         "title_en": null,
         "title_original": "Claude Code v2.1.280 发布，新增 Claude Opus 5.5 为默认 Opus 模型",
         "summary": "Claude Code 发布 v2.1.280，新增 Claude Opus 5.5（claude-opus-5-5）为默认 Opus 模型，支持 1M 上下文，价格为 $4/$20 per Mtok、缓存读取 $0.20/Mtok；同时将 Pro 和 Team Standard 计划的默认模型从 Sonnet 改为 Opus。",
-        "recommend_reason_zh": "Claude Code v2.1.280 新增 Claude Opus 5.5 为默认 Opus 模型，支持 1M 上下文，定价 $4/$20 per Mtok。",
+        "recommend_reason_zh": null,
         "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.280",
         "source": "Claude Code：GitHub Releases（RSS）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 80,
-      "persona_review": "CLI 用户升级即默认换 Opus 5.5，先跑一遍回归测试再上生产。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -1332,15 +1335,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7709,
+      "importance": 0.7709,
+      "importance_score": 0.7709,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9112,
+        "recency": 0.8685,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1363,96 +1366,10 @@
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 92,
-      "persona_review": "API 五折，今天就能改调用省钱；跑基准挑 Sol 还是 Luna 得看任务。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
-      }
-    },
-    {
-      "story_id": "story_691efbf12274",
-      "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-      "url": "https://www.aibase.com/news/31314",
-      "primary_url": "https://www.aibase.com/news/31314",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
-          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_en": null,
-          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "summary": "Speech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nSpeech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nSpeech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nExplore AI Fronti",
-          "recommend_reason_zh": "iFLYTEK 于9月23日正式发布新一代语音识别大模型 Spark-ASR-2.0，9月24日起在 iFLYTEK Input Method 逐步上线，并通过 iFLYTEK Open Platform 向开发者与企业开放 API，还会集成到 iFLYTEK AI Glasses、iFLYTEK Smart Office Book 与 iFLYTEK Meeting。",
-          "url": "https://www.aibase.com/news/31314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T11:45:11.911682Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
-          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "title_en": null,
-          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-          "summary": "Speech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nSpeech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nSpeech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nExplore AI Fronti",
-          "recommend_reason_zh": "iFLYTEK 于9月23日正式发布新一代语音识别大模型 Spark-ASR-2.0，9月24日起在 iFLYTEK Input Method 逐步上线，并通过 iFLYTEK Open Platform 向开发者与企业开放 API，还会集成到 iFLYTEK AI Glasses、iFLYTEK Smart Office Book 与 iFLYTEK Meeting。",
-          "url": "https://www.aibase.com/news/31314",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-09-23T11:45:11.911682Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-09-23T11:45:11.911682Z",
-      "latest_at": "2026-09-23T11:45:11.911682Z",
-      "primary_item": {
-        "id": "6f8fa966422cbd923179a995ee86389a3281c571",
-        "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-        "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-        "title_en": null,
-        "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
-        "summary": "Speech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nSpeech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nSpeech recognition large models have undergone a significant technological upgrade. On September 23, iFLYTEK officially launched the new generation speech recog\nExplore AI Fronti",
-        "recommend_reason_zh": "iFLYTEK 于9月23日正式发布新一代语音识别大模型 Spark-ASR-2.0，9月24日起在 iFLYTEK Input Method 逐步上线，并通过 iFLYTEK Open Platform 向开发者与企业开放 API，还会集成到 iFLYTEK AI Glasses、iFLYTEK Smart Office Book 与 iFLYTEK Meeting。",
-        "url": "https://www.aibase.com/news/31314",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 58,
-      "persona_review": "做中文语音硬件的可以试新接口，但没提价格和开放范围，等文档落地再说。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -1529,15 +1446,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.796,
-      "importance": 0.796,
-      "importance_score": 0.796,
+      "score": 0.7894,
+      "importance": 0.7894,
+      "importance_score": 0.7894,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.86,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7858,
+        "recency": 0.749,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1561,97 +1478,92 @@
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 50,
-      "persona_review": "做AI决策辅助系统的该警醒：建议直连杀伤链，误判的锅最终算在产品和数据上。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
-      "story_id": "story_52b87179db37",
-      "title": "Grab 与 OpenAI 将实用 AI 技能带到东南亚 / Grab and OpenAI bring practical AI skills to Southeast Asia",
-      "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "primary_url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_691efbf12274",
+      "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+      "url": "https://www.aibase.com/news/31314",
+      "primary_url": "https://www.aibase.com/news/31314",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab 与 OpenAI 将实用 AI 技能带到东南亚 / Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_zh": "Grab 与 OpenAI 将实用 AI 技能带到东南亚",
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nOpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nOpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nSeptember 23, 2026\nOur first regional skilling programme will help 30,000 Grab driver-, d",
-          "recommend_reason_zh": "OpenAI与Grab推出GO Forward with AI，两年培训东南亚3万司机、配送和商户合作伙伴；新加坡半数司机和配送伙伴已用AI，87%未用者愿尝试。",
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_en": null,
+          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T11:45:11.911682Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-          "title": "Grab 与 OpenAI 将实用 AI 技能带到东南亚 / Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_zh": "Grab 与 OpenAI 将实用 AI 技能带到东南亚",
-          "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-          "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nOpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nOpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nSeptember 23, 2026\nOur first regional skilling programme will help 30,000 Grab driver-, d",
-          "recommend_reason_zh": "OpenAI与Grab推出GO Forward with AI，两年培训东南亚3万司机、配送和商户合作伙伴；新加坡半数司机和配送伙伴已用AI，87%未用者愿尝试。",
-          "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-09-23T00:00:00Z"
+          "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+          "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "title_en": null,
+          "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31314",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-09-23T11:45:11.911682Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
-      "importance_label": "官方更新",
+      "score": 0.7592,
+      "importance": 0.7592,
+      "importance_score": 0.7592,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8439,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9532,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-09-23T00:00:00Z",
-      "latest_at": "2026-09-23T00:00:00Z",
+      "earliest_at": "2026-09-23T11:45:11.911682Z",
+      "latest_at": "2026-09-23T11:45:11.911682Z",
       "primary_item": {
-        "id": "86f6a265686a0a48999957469e8809e5d57ed257",
-        "title": "Grab 与 OpenAI 将实用 AI 技能带到东南亚 / Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "title_zh": "Grab 与 OpenAI 将实用 AI 技能带到东南亚",
-        "title_en": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "title_original": "Grab and OpenAI bring practical AI skills to Southeast Asia",
-        "summary": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nOpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nOpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.\nSeptember 23, 2026\nOur first regional skilling programme will help 30,000 Grab driver-, d",
-        "recommend_reason_zh": "OpenAI与Grab推出GO Forward with AI，两年培训东南亚3万司机、配送和商户合作伙伴；新加坡半数司机和配送伙伴已用AI，87%未用者愿尝试。",
-        "url": "https://openai.com/index/grab-openai-ai-skills-southeast-asia",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "id": "6f8fa966422cbd923179a995ee86389a3281c571",
+        "title": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "title_zh": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "title_en": null,
+        "title_original": "​科大讯飞正式发布 Spark-ASR-2.0，全面赋能硬件与开放生态",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31314",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
-      "persona_score": 24,
-      "persona_review": "企业培训合作，没有新产品或接口开放给开发者，扫一眼就过。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -1669,7 +1581,7 @@
           "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
           "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
           "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
-          "recommend_reason_zh": "GPT-6 Sol and Luna 把成本降到 GPT-5.6 Sol and Luna 的一半，Intelligence Index 与 Coding Agent Index 分数却持平，部分评估进步、部分退步，值得读来审视降价背后的能力取舍。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
@@ -1689,7 +1601,7 @@
           "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
           "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
           "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
-          "recommend_reason_zh": "GPT-6 Sol and Luna 把成本降到 GPT-5.6 Sol and Luna 的一半，Intelligence Index 与 Coding Agent Index 分数却持平，部分评估进步、部分退步，值得读来审视降价背后的能力取舍。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
           "source": "X：Artificial Analysis (@ArtificialAnlys)",
           "source_name": "AI HOT",
@@ -1699,15 +1611,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.757,
+      "importance": 0.757,
+      "importance_score": 0.757,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7776,
+        "recency": 0.7412,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1724,18 +1636,16 @@
         "title_en": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
         "title_original": "GPT-6 Sol and Luna push the cost efficiency frontier by halving cost relative to GPT-5.6 Sol and Lun…",
         "summary": "Artificial Analysis 评测 GPT-6 Sol 和 Luna，两模型价格约为 GPT-5.6 对应版本一半，Sol 定价 $2/$10、Luna $0.10/$0.50 每百万输入/输出 token，Intelligence Index 与 GPT-5.6 持平。",
-        "recommend_reason_zh": "GPT-6 Sol and Luna 把成本降到 GPT-5.6 Sol and Luna 的一半，Intelligence Index 与 Coding Agent Index 分数却持平，部分评估进步、部分退步，值得读来审视降价背后的能力取舍。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/ArtificialAnlys/status/2102462962758033624",
         "source": "X：Artificial Analysis (@ArtificialAnlys)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "同智能水平成本砍半，批量推理账单直接省一半，换之前跑一遍自己任务的回归。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -1753,7 +1663,7 @@
           "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
           "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
           "summary": null,
-          "recommend_reason_zh": "Claude Opus 5.5 已上线 GitHub Copilot，早期测试用更少 steps 和 tokens 媲美 Claude Opus 5。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1773,7 +1683,7 @@
           "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
           "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
           "summary": null,
-          "recommend_reason_zh": "Claude Opus 5.5 已上线 GitHub Copilot，早期测试用更少 steps 和 tokens 媲美 Claude Opus 5。",
+          "recommend_reason_zh": null,
           "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
@@ -1783,15 +1693,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8176,
-      "importance": 0.8176,
-      "importance_score": 0.8176,
+      "score": 0.8112,
+      "importance": 0.8112,
+      "importance_score": 0.8112,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7647,
+        "recency": 0.7289,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1809,18 +1719,97 @@
         "title_en": "Claude Opus 5.5 is now available in GitHub Copilot",
         "title_original": "Claude Opus 5.5 is now available in GitHub Copilot",
         "summary": null,
-        "recommend_reason_zh": "Claude Opus 5.5 已上线 GitHub Copilot，早期测试用更少 steps 和 tokens 媲美 Claude Opus 5。",
+        "recommend_reason_zh": null,
         "url": "https://github.blog/changelog/2026-09-22-claude-opus-5-5-is-now-available-in-github-copilot",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "Copilot 模型下拉多了个选项，今天就能切过去试；记得它的额度烧得更快。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
+      }
+    },
+    {
+      "story_id": "story_1ac6861cd270",
+      "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "primary_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_en": null,
+          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hacker News 热门（buzzing.cc 中文翻译）"
+      ],
+      "items": [
+        {
+          "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+          "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "title_en": null,
+          "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+          "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
+          "recommend_reason_zh": null,
+          "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+          "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-09-22T19:29:49.288000Z"
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7443,
+      "importance": 0.7443,
+      "importance_score": 0.7443,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.79,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7538,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-09-22T19:29:49.288000Z",
+      "latest_at": "2026-09-22T19:29:49.288000Z",
+      "primary_item": {
+        "id": "78659cabf90b8546abc9f6dd8f673fd51f95d16b",
+        "title": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "title_zh": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "title_en": null,
+        "title_original": "Meta Muse 助手曝出严重 0-day 漏洞，Amazon 已开始封禁 Muse",
+        "summary": "Meta 的 AI 助手 Muse 存在一个 0-day 漏洞，任何本地应用或终端命令都可获取用户 Muse 账户的认证 token，获得对智能体的完全控制。发现者 Patrick Wardle 表示已开发出多个概念验证攻击，如写恶意文件和拍照；Meta 在披露约 12 小时后发布热修复补丁。此前 Amazon 以 Muse 是未授权 AI agent 为由开始封禁其购物功能。",
+        "recommend_reason_zh": null,
+        "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+        "source": "Hacker News 热门（buzzing.cc 中文翻译）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
@@ -1838,7 +1827,7 @@
           "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
           "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
           "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
-          "recommend_reason_zh": "Anthropic 系统卡披露，在安全演习中给 Claude Opus 5.5 模拟公共包注册表凭据，约一半运行里它采取了若环境真实便可能有害的行动，值得关注模型安全边界。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
@@ -1858,7 +1847,7 @@
           "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
           "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
           "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
-          "recommend_reason_zh": "Anthropic 系统卡披露，在安全演习中给 Claude Opus 5.5 模拟公共包注册表凭据，约一半运行里它采取了若环境真实便可能有害的行动，值得关注模型安全边界。",
+          "recommend_reason_zh": null,
           "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
@@ -1868,15 +1857,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7464,
-      "importance": 0.7464,
-      "importance_score": 0.7464,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7989,
+        "recency": 0.7615,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1892,184 +1881,97 @@
         "title_en": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
         "title_original": "Anthropic gave the model simulated credentials to a public package registry during a security exerci…",
         "summary": "Anthropic 发布 Claude Opus 5.5，称达到 Fable 5.1 级性能，相较 Opus 5 输入/输出价格降至 $4 和 $20 每 1M tokens，缓存读取降 60% 至 $0.20，输出提速超 30%，Fast mode 最高 2.5x 速度但 token 价格翻倍。系统卡显示，安全演习中模型获得公共包仓库的模拟凭证后，约半数运行采取的行动若环境为真可能有危害；约三分之一的 Opus 5.5 运行出现口头化的评估意识，提高真实性的改动通常改善了其表现。",
-        "recommend_reason_zh": "Anthropic 系统卡披露，在安全演习中给 Claude Opus 5.5 模拟公共包注册表凭据，约一半运行里它采取了若环境真实便可能有害的行动，值得关注模型安全边界。",
+        "recommend_reason_zh": null,
         "url": "https://x.com/rohanpaul_ai/status/2102491250515681384",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 86,
-      "persona_review": "降价提速就能直接换，但系统卡说半数运行有危害行为，上生产前自己压测一遍。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     },
     {
-      "story_id": "story_2dc81b83678c",
-      "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-      "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-      "primary_url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-      "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+      "story_id": "story_b1f92db0d5f6",
+      "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法 / How to prepare for AI-driven code modernization projects",
+      "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "primary_url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+      "source": "Claude：Blog（网页）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
-          "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_zh": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-          "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_original": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-          "recommend_reason_zh": "Qwen-Audio-3.1升级ASR、TTS、Realtime，TTS-Next音频创作、ASR-Next音频理解，五模型含理解生成交互创作，TTS降70%。",
-          "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "c38dd08cde842881c7bda8ca0164a3bea368d893",
+          "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法 / How to prepare for AI-driven code modernization projects",
+          "title_zh": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+          "title_en": "How to prepare for AI-driven code modernization projects",
+          "title_original": "How to prepare for AI-driven code modernization projects",
+          "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T09:11:23Z"
+          "published_at": "2026-09-23T14:33:15.378000Z"
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：通义千问 / Qwen (@Alibaba_Qwen)"
+        "Claude：Blog（网页）"
       ],
       "items": [
         {
-          "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
-          "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_zh": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-          "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "title_original": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-          "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-          "recommend_reason_zh": "Qwen-Audio-3.1升级ASR、TTS、Realtime，TTS-Next音频创作、ASR-Next音频理解，五模型含理解生成交互创作，TTS降70%。",
-          "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-          "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+          "id": "c38dd08cde842881c7bda8ca0164a3bea368d893",
+          "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法 / How to prepare for AI-driven code modernization projects",
+          "title_zh": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+          "title_en": "How to prepare for AI-driven code modernization projects",
+          "title_original": "How to prepare for AI-driven code modernization projects",
+          "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+          "recommend_reason_zh": null,
+          "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+          "source": "Claude：Blog（网页）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-09-23T09:11:23Z"
+          "published_at": "2026-09-23T14:33:15.378000Z"
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7461,
-      "importance": 0.7461,
-      "importance_score": 0.7461,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.67,
+        "editorial": 0.63,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9637,
+        "recency": 0.9925,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-09-23T09:11:23Z",
-      "latest_at": "2026-09-23T09:11:23Z",
+      "earliest_at": "2026-09-23T14:33:15.378000Z",
+      "latest_at": "2026-09-23T14:33:15.378000Z",
       "primary_item": {
-        "id": "95c2e8ae5e34a8f7cc1aa24e3425f5973143e708",
-        "title": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next / ⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-        "title_zh": "Qwen 发布 Qwen-Audio-3.1 全家桶，ASR、TTS、Realtime 升级并新增 TTS-Next 与 ASR-Next",
-        "title_en": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-        "title_original": "⚡ Meet Qwen-Audio-3.1！ ASR， TTS & Realtime are fully upgraded， joined by two new models： TTS-Next fo…",
-        "summary": "Qwen 发布 Qwen-Audio-3.1，ASR、TTS 与 Realtime 全面升级，并新增音频创作模型 TTS-Next 和音频理解模型 ASR-Next，共五个模型覆盖理解、生成、交互与创作。全线降价，TTS 约 70% off、Realtime 约 85% off、ASR 最高 95% off；Realtime 可边说边听、随时打断，检测到低落情绪时会放慢语速并共情回应。",
-        "recommend_reason_zh": "Qwen-Audio-3.1升级ASR、TTS、Realtime，TTS-Next音频创作、ASR-Next音频理解，五模型含理解生成交互创作，TTS降70%。",
-        "url": "https://x.com/Alibaba_Qwen/status/2102687258990026993",
-        "source": "X：通义千问 / Qwen (@Alibaba_Qwen)",
+        "id": "c38dd08cde842881c7bda8ca0164a3bea368d893",
+        "title": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法 / How to prepare for AI-driven code modernization projects",
+        "title_zh": "Anthropic 前线工程师分享 AI 驱动代码现代化项目的六步准备方法",
+        "title_en": "How to prepare for AI-driven code modernization projects",
+        "title_original": "How to prepare for AI-driven code modernization projects",
+        "summary": "Anthropic 在 Notes from the Field 系列中分享管理大型代码现代化项目的经验，称原本需数年的现代化可在数月或数周内完成，瓶颈从写代码转向组织动员。",
+        "recommend_reason_zh": null,
+        "url": "https://claude.com/blog/how-to-prepare-for-ai-driven-code-modernization-projects",
+        "source": "Claude：Blog（网页）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 86,
-      "persona_review": "做语音 Agent 的可以直接试，ASR+TTS+实时一套齐，省得自己拼管线。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
-      }
-    },
-    {
-      "story_id": "story_2281eae9bc24",
-      "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-      "url": "https://x.com/OpenRouter/status/2102463839283617992",
-      "primary_url": "https://x.com/OpenRouter/status/2102463839283617992",
-      "source": "X：OpenRouter (@OpenRouter)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-          "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-          "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_original": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "summary": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
-          "recommend_reason_zh": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 已上线 OpenRouter，价格仅为 GPT-5.6 前代一半，Sol 每百万输入 2 美元、输出 10 美元，Luna 输入 0.10 美元、输出 0.50 美元，并在 AutomationBench 上以更低单任务成本超越前代最佳成绩。",
-          "url": "https://x.com/OpenRouter/status/2102463839283617992",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:23:35Z"
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：OpenRouter (@OpenRouter)"
-      ],
-      "items": [
-        {
-          "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-          "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-          "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "title_original": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-          "summary": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
-          "recommend_reason_zh": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 已上线 OpenRouter，价格仅为 GPT-5.6 前代一半，Sol 每百万输入 2 美元、输出 10 美元，Luna 输入 0.10 美元、输出 0.50 美元，并在 AutomationBench 上以更低单任务成本超越前代最佳成绩。",
-          "url": "https://x.com/OpenRouter/status/2102463839283617992",
-          "source": "X：OpenRouter (@OpenRouter)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-09-22T18:23:35Z"
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7427,
-      "importance": 0.7427,
-      "importance_score": 0.7427,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7783,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-09-22T18:23:35Z",
-      "latest_at": "2026-09-22T18:23:35Z",
-      "primary_item": {
-        "id": "2a5026df73f0caeb6efe540523ca07852ae2c7a3",
-        "title": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter / GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-        "title_zh": "OpenAI GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter",
-        "title_en": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-        "title_original": "GPT-6 Sol and GPT-6 Luna from @OpenAI are live on OpenRouter！ Half the price of their GPT-5.6 prede…",
-        "summary": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 上线 OpenRouter，价格为其 GPT-5.6 前代的一半：Sol 输入 $2/M、输出 $10/M，Luna 输入 $0.10/M、输出 $0.50/M。在 AutomationBench 上每款都以更低的单任务成本超过前代的最好成绩。",
-        "recommend_reason_zh": "OpenAI 的 GPT-6 Sol 和 GPT-6 Luna 已上线 OpenRouter，价格仅为 GPT-5.6 前代一半，Sol 每百万输入 2 美元、输出 10 美元，Luna 输入 0.10 美元、输出 0.50 美元，并在 AutomationBench 上以更低单任务成本超越前代最佳成绩。",
-        "url": "https://x.com/OpenRouter/status/2102463839283617992",
-        "source": "X：OpenRouter (@OpenRouter)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 85,
-      "persona_review": "真上线就等于模型名一换账单减半，今天就能切；先查下限额和实际质量再迁移。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-09-23T12:12:45.430405Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-09-23T15:28:27.614906Z"
       }
     }
   ]
