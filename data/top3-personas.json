@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-22T10:17:41.969344Z",
+  "generated_at": "2026-09-23T12:12:48.883780Z",
   "model": "deepseek-v4-flash",
   "personas": [
     {
@@ -17,62 +17,62 @@
   ],
   "items": [
     {
-      "story_id": "story_3f10cf90ec97",
-      "title": "Grok 4.7 现已上线 GitHub Copilot / Grok 4.7 is now available in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-09-21-grok-4-7-is-now-available-in-github-copilot",
+      "story_id": "story_3c48d5bb2a9e",
+      "title": "OpenAI 发布 GPT-6 Sol 和 GPT-6 Luna，API 价格较 GPT-5.6 降 50% / Introducing GPT-6 Sol and Luna",
+      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna",
       "rank": 1,
       "reviews": {
         "cynic": {
-          "score": 50,
-          "review": "小数点后一位的例行上新，changelog 里连句跑分都懒得给，先让用户自己猜能干啥。"
+          "score": 74,
+          "review": "降价一半是真金白银，可通稿只谈价格不谈跑分，能力呢？"
         },
         "paper-police": {
-          "score": 32,
-          "review": "官方 changelog 只说已上线，无论文无代码无跑分，能力无从验证。"
+          "score": 38,
+          "review": "官方博客发了型号和降价，却无论文、代码或基准跑分，没法复现就只是新闻稿。"
         },
         "pragmatic": {
-          "score": 87,
-          "review": "Copilot 模型下拉框里就能选，今天可上手对比，不用改任何代码。"
+          "score": 92,
+          "review": "新模型当天可调，API 账单直接砍半，批量推理的今天就该切过去比一比。"
         }
       }
     },
     {
-      "story_id": "story_ec8391fd6c37",
-      "title": "SpaceXAI 最强模型 Grok 4.7 上线：长任务能力拉满，价格只有旗舰一半",
-      "url": "https://www.aibase.com/news/31268",
+      "story_id": "story_8270efdbfdab",
+      "title": "OpenAI 发布 GPT-6 Sol 与 Luna，API 定价降至五折并公布基准成绩 / OpenAI Releases GPT-6 Sol and Luna： 50% Cheaper API Pricing and Benchmarks",
+      "url": "https://www.marktechpost.com/2026/09/22/openai-releases-gpt-6-sol-and-luna-50-cheaper-api-pricing-and-benchmarks",
       "rank": 2,
       "reviews": {
         "cynic": {
-          "score": 45,
-          "review": "长任务能力拉满，却不说测了啥；半价对标的旗舰是谁，也藏着。"
+          "score": 63,
+          "review": "API 打五折是真金白银，基准却还是自家出卷自家判，等第三方复现再吹。"
         },
         "paper-police": {
-          "score": 18,
-          "review": "长任务\"拉满\"从哪测的？论文、代码、跑分三无，单一来源宣称不算证据。"
+          "score": 45,
+          "review": "只给了基准数字，无论文无开源代码，单一来源无法复现，等第三方跑分。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "价格砍半确实能省钱，但单一来源，先拿长任务压测再决定迁不迁。"
+          "score": 92,
+          "review": "API 五折，今天就能改调用省钱；跑基准挑 Sol 还是 Luna 得看任务。"
         }
       }
     },
     {
-      "story_id": "story_f598d946da96",
-      "title": "小米发布开放权重模型 MiMo-V2.6-Pro，登顶 Artificial Analysis 开放权重模型智能指数 / Banger！ https://huggingface.co/collections/XiaomiMiMo/mimo-v26",
-      "url": "https://x.com/ClementDelangue/status/2102141768674222323",
+      "story_id": "story_b742684d2aef",
+      "title": "Anthropic 发布 Claude Opus 5.5，成本较 Opus 5 降低 40% / Introducing Claude Opus 5.5",
+      "url": "https://www.anthropic.com/claude-opus-5-5",
       "rank": 3,
       "reviews": {
         "cynic": {
-          "score": 74,
-          "review": "权重真开放，这点认；但登的是单家榜单，指数高≠能干活。"
+          "score": 70,
+          "review": "40% 的降幅没说是 API 单价还是训练摊销，账对不上就别怪人怀疑是换了个算法口径。"
         },
         "paper-police": {
-          "score": 74,
-          "review": "权重已开源、第三方榜单可查，但缺技术报告与复现，暂不能全信。"
+          "score": 55,
+          "review": "官方页可查，降本40%属自报数字，无论文与第三方复现，等跑分。"
         },
         "pragmatic": {
-          "score": 80,
-          "review": "权重已放出，能直接下；先看许可证和显存，榜单第一不等于好调。"
+          "score": 91,
+          "review": "同档能力降价四成，账单直接省，今天就能切 API 跑一遍对比。"
         }
       }
     }
