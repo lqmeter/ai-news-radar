@@ -5,23 +5,23 @@
 <link>https://news.learnprompt.pro/en</link>
 <description>A curated 24-hour radar of AI news: official releases, new models and high-signal discussion.</description>
 <language>en</language>
-<lastBuildDate>Sun, 25 Oct 2026 08:59:32 +0000</lastBuildDate>
+<lastBuildDate>Sun, 25 Oct 2026 14:58:05 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://news.learnprompt.pro/en/feed.xml"/>
 <item>
-<title>OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
-<link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</link>
-<guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</guid>
-<description>OpenAI's isolated AI agents found ways to talk to each other through CPU cache</description>
-<category>Industry news</category>
-<pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
+<title>r/opensource just banned AI, non-English speakers, and more</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban</guid>
+<description>r/opensource just banned AI, non-English speakers, and more (The Verge)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 13:25:32 +0000</pubDate>
 </item>
 <item>
-<title>Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...</title>
-<link>https://x.com/emollick/status/2114001653879672877</link>
-<guid isPermaLink="true">https://x.com/emollick/status/2114001653879672877</guid>
-<description>Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...</description>
-<category>Industry news</category>
-<pubDate>Sat, 24 Oct 2026 14:30:45 +0000</pubDate>
+<title>AgriciDaniel/claude-seo — Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.</title>
+<link>https://github.com/AgriciDaniel/claude-seo</link>
+<guid isPermaLink="true">https://github.com/AgriciDaniel/claude-seo</guid>
+<description>Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data. (GitHub Trending)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 14:58:05 +0000</pubDate>
 </item>
 <item>
 <title>Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</title>
@@ -40,14 +40,6 @@
 <pubDate>Sun, 25 Oct 2026 07:05:49 +0000</pubDate>
 </item>
 <item>
-<title>google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.</title>
-<link>https://github.com/google-gemini/gemini-cli</link>
-<guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
-<description>An open-source AI agent that brings the power of Gemini directly into your terminal. (GitHub Trending)</description>
-<category>Worth watching</category>
-<pubDate>Sun, 25 Oct 2026 08:59:32 +0000</pubDate>
-</item>
-<item>
 <title>美国媒体、影视和艺术行业已流失20万个工作岗位。其中有多少是受人工智能影响的？</title>
 <link>https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</link>
 <guid isPermaLink="true">https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class</guid>
@@ -56,10 +48,18 @@
 <pubDate>Sun, 25 Oct 2026 01:05:14 +0000</pubDate>
 </item>
 <item>
-<title>pollen-robotics/microduck — A Tiny biped duck robot 🦆</title>
-<link>https://github.com/pollen-robotics/microduck</link>
-<guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
-<description>A Tiny biped duck robot 🦆 (GitHub Trending)</description>
+<title>Nikon photography contest winner loses title after scientists spot signs of AI</title>
+<link>https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</link>
+<guid isPermaLink="true">https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html</guid>
+<description>Nikon photography contest winner loses title after scientists spot signs of AI</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 09:51:17 +0000</pubDate>
+</item>
+<item>
+<title>google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.</title>
+<link>https://github.com/google-gemini/gemini-cli</link>
+<guid isPermaLink="true">https://github.com/google-gemini/gemini-cli</guid>
+<description>An open-source AI agent that brings the power of Gemini directly into your terminal. (GitHub Trending)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 25 Oct 2026 08:59:32 +0000</pubDate>
 </item>
@@ -78,6 +78,14 @@
 <description>科技行业以外尚未出现人工智能带来回报的迹象 (www.apollo.com)</description>
 <category>Worth watching</category>
 <pubDate>Sun, 25 Oct 2026 01:04:53 +0000</pubDate>
+</item>
+<item>
+<title>pollen-robotics/microduck — A Tiny biped duck robot 🦆</title>
+<link>https://github.com/pollen-robotics/microduck</link>
+<guid isPermaLink="true">https://github.com/pollen-robotics/microduck</guid>
+<description>A Tiny biped duck robot 🦆 (GitHub Trending)</description>
+<category>Worth watching</category>
+<pubDate>Sun, 25 Oct 2026 08:59:32 +0000</pubDate>
 </item>
 </channel>
 </rss>
