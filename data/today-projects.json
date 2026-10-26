@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-26T12:59:00.140542Z",
-  "date": "2026-10-26",
+  "generated_at": "2026-10-26T17:26:50.281694Z",
+  "date": "2026-10-27",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-26T12:58:19.593330Z"
+      "observed_at": "2026-10-26T17:26:02.168466Z"
     },
     {
-      "id": "project_a140cf7aeba9",
-      "project_name": "N8N Chat UI",
-      "url": "https://www.producthunt.com/products/n8n-chat-ui-2",
-      "summary": "Beautiful, no-code, on-brand AI chat widgets for n8n",
+      "id": "project_6394d4cace69",
+      "project_name": "Jobmate AI",
+      "url": "https://www.producthunt.com/products/jobmate-ai-3",
+      "summary": "The humanized AI Copilot for your entire Job search",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Beautiful, no-code, on-brand AI chat widgets for n8n」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Beautiful, no-code, on-brand AI chat widgets for n8n\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-08T02:43:27Z",
-      "updated_at": "2026-10-26T12:57:55Z",
+      "recommend_reason_zh": "体验它主打的「The humanized AI Copilot for your entire Job search」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"The humanized AI Copilot for your entire Job search\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-25T22:59:42Z",
+      "updated_at": "2026-10-26T17:08:22Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-26T12:58:50.973982Z"
+      "observed_at": "2026-10-26T17:26:38.898276Z"
     },
     {
       "id": "project_1606cfe2c2a9",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-26T12:58:19.593330Z"
+      "observed_at": "2026-10-26T17:26:02.168466Z"
     },
     {
-      "id": "project_25f0fc5da417",
-      "project_name": "Strawberry 1.0",
-      "url": "https://www.producthunt.com/products/strawberry",
-      "summary": "AI Browser that saves your team >100h/week",
+      "id": "project_2e9c07edf2e4",
+      "project_name": "AllModels",
+      "url": "https://www.producthunt.com/products/allmodels-io",
+      "summary": "Explore every abliterated model",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI Browser that saves your team >100h/week」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI Browser that saves your team >100h/week\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-12T16:12:24Z",
-      "updated_at": "2026-10-26T12:57:41Z",
+      "recommend_reason_zh": "体验它主打的「Explore every abliterated model」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Explore every abliterated model\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-26T05:15:29Z",
+      "updated_at": "2026-10-26T17:04:28Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-26T12:58:50.973982Z"
+      "observed_at": "2026-10-26T17:26:38.898276Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1548,
+      "duration_ms": 1383,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 266,
+      "duration_ms": 193,
       "error": null
     }
   ]
