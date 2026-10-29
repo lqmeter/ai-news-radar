@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T02:30:08.744548Z",
+  "generated_at": "2026-10-29T07:03:08.967652Z",
   "date": "2026-10-29",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T02:29:27.965054Z"
+      "observed_at": "2026-10-29T07:02:29.559895Z"
     },
     {
-      "id": "project_ee91f7145ad1",
-      "project_name": "OpenLLM",
-      "url": "https://www.producthunt.com/products/openllm",
-      "summary": "Take your AI tokens anywhere",
+      "id": "project_470ff32953cd",
+      "project_name": "Radar",
+      "url": "https://www.producthunt.com/products/radar-7",
+      "summary": "You don't need an AI SRE. Give your agent Radar.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Take your AI tokens anywhere」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Take your AI tokens anywhere\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T06:14:57Z",
-      "updated_at": "2026-10-29T02:01:55Z",
+      "recommend_reason_zh": "体验它主打的「You don't need an AI SRE. Give your agent Radar」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"You don't need an AI SRE. Give your agent Radar\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-27T20:41:59Z",
+      "updated_at": "2026-10-29T07:02:32Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T02:29:58.572131Z"
+      "observed_at": "2026-10-29T07:02:58.700927Z"
     },
     {
       "id": "project_e2469c92ba3c",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T02:29:27.965054Z"
+      "observed_at": "2026-10-29T07:02:29.559895Z"
     },
     {
-      "id": "project_3f8f6e9cd3b5",
-      "project_name": "Dedica",
-      "url": "https://www.producthunt.com/products/dedica",
-      "summary": "Check if AI agents can use your website",
+      "id": "project_9a70fd6f2e15",
+      "project_name": "Confetti",
+      "url": "https://www.producthunt.com/products/confetti-5",
+      "summary": "Build hardware projects using plain-English prompts",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Check if AI agents can use your website」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Check if AI agents can use your website\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T00:45:35Z",
-      "updated_at": "2026-10-29T02:27:31Z",
+      "recommend_reason_zh": "体验它主打的「Build hardware projects using plain-English prompts」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Build hardware projects using plain-English prompts\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-27T23:51:07Z",
+      "updated_at": "2026-10-29T07:01:39Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T02:29:58.572131Z"
+      "observed_at": "2026-10-29T07:02:58.700927Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 14,
-      "duration_ms": 1250,
+      "duration_ms": 1312,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 241,
+      "duration_ms": 242,
       "error": null
     }
   ]
