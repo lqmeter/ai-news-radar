@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-29T14:16:25.125258Z",
-  "date": "2026-10-29",
+  "generated_at": "2026-10-29T19:43:02.085974Z",
+  "date": "2026-10-30",
   "total_items": 4,
   "items": [
     {
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T14:15:42.572251Z"
+      "observed_at": "2026-10-29T19:42:20.794280Z"
     },
     {
-      "id": "project_aeb0ff929434",
-      "project_name": "Gologin Cloud Browser",
-      "url": "https://www.producthunt.com/products/gologin",
-      "summary": "Cloud browser for AI agents and tough sites",
+      "id": "project_470ff32953cd",
+      "project_name": "Radar",
+      "url": "https://www.producthunt.com/products/radar-7",
+      "summary": "You don't need an AI SRE. Give your agent Radar.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Cloud browser for AI agents and tough sites」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Cloud browser for AI agents and tough sites\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-22T17:53:59Z",
-      "updated_at": "2026-10-29T14:14:35Z",
+      "recommend_reason_zh": "体验它主打的「You don't need an AI SRE. Give your agent Radar」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"You don't need an AI SRE. Give your agent Radar\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-27T20:41:59Z",
+      "updated_at": "2026-10-29T19:42:12Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T14:16:14.319866Z"
+      "observed_at": "2026-10-29T19:42:50.934581Z"
     },
     {
       "id": "project_239feae36314",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-29T14:15:42.572251Z"
+      "observed_at": "2026-10-29T19:42:20.794280Z"
     },
     {
-      "id": "project_fac2a6d2b26d",
-      "project_name": "TopAgent",
-      "url": "https://www.producthunt.com/products/topmessage",
-      "summary": "Drive B2B event attendance with an AI agent",
+      "id": "project_c0824fc75e67",
+      "project_name": "MAO",
+      "url": "https://www.producthunt.com/products/mao-multi-agentic-orchestration-tool",
+      "summary": "Team up Claude Code, Codex and Grok on one canvas",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Drive B2B event attendance with an AI agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Drive B2B event attendance with an AI agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-19T12:56:25Z",
-      "updated_at": "2026-10-29T14:14:27Z",
+      "recommend_reason_zh": "体验它主打的「Team up Claude Code, Codex and Grok on one canvas」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Team up Claude Code, Codex and Grok on one canvas\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-28T11:27:28Z",
+      "updated_at": "2026-10-29T19:24:06Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-29T14:16:14.319866Z"
+      "observed_at": "2026-10-29T19:42:50.934581Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1743,
+      "duration_ms": 1312,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 233,
+      "duration_ms": 318,
       "error": null
     }
   ]
